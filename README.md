@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some projects on react with JavaScript and TypeScript<br>👯 I’m looking to collaborate on front-end related projects<br>🤝 I’m looking for help with data structures and algorithms<br>🌱 I’m currently learning full stack development.<br>
+🔭 I’m currently working on some projects on React with JavaScript and TypeScript<br>👯 I’m looking to collaborate on front-end related projects<br>🤝 I’m looking for help with data structures and algorithms<br>🌱 I’m currently learning full stack development.<br>
 
 
 ## 🌐 Socials:
