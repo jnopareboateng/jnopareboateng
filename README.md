@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some projects on React with JavaScript and TypeScript<br>👯 I’m looking to collaborate on front-end related projects<br>🤝 I’m looking for help with data structures and algorithms<br>🌱 I’m currently learning full stack development.<br>
-
+Full Stack Developer | Machine Learning Engineer
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1realjoshua) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-opare-boateng) 
