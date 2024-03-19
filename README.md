@@ -1,6 +1,7 @@
 # Full Stack Developer | Machine Learning and AI research Assistant <br>
 
-🔭 **Currently Working On**: I'm diving deep into the world of full-stack development with a focus on Next.js. I'm exploring how to integrate Machine Learning algorithms to create intelligent, dynamic, and responsive web applications.<br><br>👯 **Looking to Collaborate**: I'm eager to collaborate on projects that push the boundaries of technology. If you're working on Machine Learning, Deep Learning, Prompt Engineering, or Web App Development, let's connect and create something amazing together!<br><br>🧠 **Seeking Help With**: I'm on a quest to master Data Structures and Algorithms. I'm particularly interested in understanding their real-world applications. If you have insights, resources, or advice, I'd love to hear from you!<br><br>🌱 **Currently Learning**: I'm expanding my skill set by learning Next.js and Firebase. I believe these tools will significantly enhance my web development and real-time database management capabilities.<br><br>💬 **Ask Me About**: Feel free to ask me about my ongoing projects, my experience with Next.js, or anything related to Machine Learning and Web Development. I'm always happy to share knowledge and learn from others!<br><br>⚡ **Fun Fact**: Did you know that Machine Learning algorithms can significantly optimize the performance of web apps by personalizing user experiences in real-time? It's a fascinating intersection of technology and user experience!<br>
+### Wait what?
+> I am a Mixture of Experts (MoE)
 
 
 ## 🌐 Socials:
