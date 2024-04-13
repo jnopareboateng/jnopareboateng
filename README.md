@@ -1,4 +1,4 @@
-# Full Stack Developer | Machine Learning and AI Research Assistant <br>
+# Full Stack Developer | Machine Learning Engineer <br>
 
 ### Wait what?
 ## I am a Mixture of Experts (MoE)
